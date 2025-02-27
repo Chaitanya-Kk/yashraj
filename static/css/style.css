@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1e1e2d;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    background: #2b2b3b;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.image-section {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.content {
+    flex: 2;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.input-section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input, select {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    background: #ff5722;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.result-section {
+    margin-top: 20px;
+    text-align: center;
+}

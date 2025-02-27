@@ -1,0 +1,141 @@
+{
+    "underweight": {
+        "teen": {
+            "male": {
+                "description": "You are underweight. Focus on increasing your calorie intake with healthy foods and strength training to build muscle mass.",
+                "tips": [
+                    "Eat protein-rich meals and healthy fats.",
+                    "Consume whole grains and calorie-dense snacks.",
+                    "Engage in strength training to gain muscle.",
+                    "Avoid excessive cardio; focus on resistance exercises."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Oatmeal with peanut butter and banana.",
+                    "lunch": "Grilled chicken with brown rice and avocado.",
+                    "dinner": "Steak with sweet potatoes and broccoli."
+                }
+            },
+            "female": {
+                "description": "Being underweight may lead to deficiencies. Prioritize nutrient-dense meals and resistance training.",
+                "tips": [
+                    "Consume dairy, nuts, and lean proteins.",
+                    "Include healthy snacks like nuts and yogurt.",
+                    "Strength training and yoga can improve muscle tone.",
+                    "Hydrate well and monitor nutrient intake."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Smoothie with Greek yogurt, berries, and almonds.",
+                    "lunch": "Quinoa salad with grilled salmon.",
+                    "dinner": "Stir-fried tofu with vegetables and brown rice."
+                }
+            }
+        },
+        "adult": {
+            "male": {
+                "description": "Your BMI indicates that you're underweight. A balanced diet with muscle-building exercises will help you reach a healthy weight.",
+                "tips": [
+                    "Increase your intake of protein, complex carbs, and healthy fats.",
+                    "Strength training will help build lean muscle mass.",
+                    "Eat frequent, balanced meals with good calorie density.",
+                    "Monitor weight gain to ensure a healthy balance."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Eggs with whole grain toast and avocado.",
+                    "lunch": "Chicken and rice bowl with steamed vegetables.",
+                    "dinner": "Steak with mashed sweet potatoes and grilled asparagus."
+                }
+            },
+            "female": {
+                "description": "A balanced diet with strength-building exercises will help you reach a healthier BMI.",
+                "tips": [
+                    "Increase your intake of nutrient-dense foods.",
+                    "Include lean protein sources like chicken, fish, and tofu.",
+                    "Strength and endurance exercises will improve body composition.",
+                    "Maintain a regular meal schedule with balanced portions."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Greek yogurt with granola and fruit.",
+                    "lunch": "Salmon with quinoa and roasted vegetables.",
+                    "dinner": "Grilled chicken with brown rice and mixed greens."
+                }
+            }
+        }
+    },
+    "normal": {
+        "teen": {
+            "male": {
+                "description": "Your BMI is within a healthy range. Maintain a balanced diet and an active lifestyle.",
+                "tips": [
+                    "Continue with regular exercise and strength training.",
+                    "Eat a variety of foods rich in micronutrients.",
+                    "Stay hydrated and get enough sleep for recovery."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Scrambled eggs with whole wheat toast and fruit.",
+                    "lunch": "Grilled chicken salad with quinoa.",
+                    "dinner": "Baked fish with roasted sweet potatoes."
+                }
+            },
+            "female": {
+                "description": "You have a healthy BMI. Keep a well-balanced diet and exercise regularly to maintain it.",
+                "tips": [
+                    "Stay active with a mix of cardio and strength training.",
+                    "Include foods rich in iron, calcium, and vitamins.",
+                    "Follow a consistent meal schedule."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Avocado toast with poached eggs.",
+                    "lunch": "Quinoa salad with grilled tofu.",
+                    "dinner": "Vegetable stir-fry with brown rice."
+                }
+            }
+        }
+    },
+    "overweight": {
+        "teen": {
+            "male": {
+                "description": "You are slightly overweight. A combination of exercise and a healthy diet can help you reach an optimal BMI.",
+                "tips": [
+                    "Engage in high-intensity interval training (HIIT) and cardio.",
+                    "Reduce processed and high-calorie foods.",
+                    "Increase fiber intake for better digestion."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Oatmeal with chia seeds and banana.",
+                    "lunch": "Grilled chicken with mixed greens and balsamic dressing.",
+                    "dinner": "Steamed fish with quinoa and vegetables."
+                }
+            }
+        }
+    },
+    "obese": {
+        "adult": {
+            "male": {
+                "description": "Your BMI is classified as obese. A structured diet and regular exercise can help you improve your health.",
+                "tips": [
+                    "Follow a calorie-controlled, high-protein diet.",
+                    "Engage in moderate-intensity workouts daily.",
+                    "Drink plenty of water and avoid sugary beverages."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Scrambled egg whites with spinach and whole wheat toast.",
+                    "lunch": "Grilled chicken with steamed broccoli and quinoa.",
+                    "dinner": "Salmon with roasted vegetables and brown rice."
+                }
+            },
+            "female": {
+                "description": "Adopting a structured diet and regular physical activity will help you achieve a healthier weight.",
+                "tips": [
+                    "Consume fiber-rich foods to stay full longer.",
+                    "Incorporate at least 30 minutes of daily physical activity.",
+                    "Monitor portion sizes and practice mindful eating."
+                ],
+                "food_recommendations": {
+                    "breakfast": "Greek yogurt with flaxseeds and mixed berries.",
+                    "lunch": "Grilled tofu with steamed vegetables.",
+                    "dinner": "Lentil soup with a side of roasted vegetables."
+                }
+            }
+        }
+    }
+}
